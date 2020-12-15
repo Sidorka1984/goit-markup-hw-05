@@ -188,6 +188,7 @@ img {
 /*===================end header==============*/
 /*===================hero==============*/
 .hero {
+  max-width: 1600px;
   min-height: 600px;
   margin: auto;
   padding-top: 200px;
